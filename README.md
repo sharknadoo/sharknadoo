@@ -1,5 +1,5 @@
 <p align="center">
-  <sup>bravo six, going dark.</sup>
+  <sup><b>bravo six, going dark.</b></sup>
 </p>
 
 <p align="center">
